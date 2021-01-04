@@ -17,7 +17,7 @@ Book Finder is a complete MERN application utilizing GraphQL and Apollo Server t
 - [Credits](#Credits)
 - [Questions](#questions)
 
-![image](./readme.png)
+![image](./readme.jpg)
 
 ## Installation
 
