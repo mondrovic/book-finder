@@ -1,8 +1,8 @@
-# Book Search
+# Book Finder
 
 ## Description
 
-Book Search is a complete MERN application utilizing GraphQL and Apollo Server to interact with the backend. This web app utilizes Google's Book API and allows users to not only find books, but also save them as favorites if they sign up for the app. The app includes the following features:
+Book Finder is a complete MERN application utilizing GraphQL and Apollo Server to interact with the backend. This web app utilizes Google's Book API and allows users to not only find books, but also save them as favorites if they sign up for the app. The app includes the following features:
 
 - Search for books by author, title, or series
 - Account creation utilizing MongoDB, GraphQL, and JWT
@@ -27,7 +27,7 @@ Book Search is a complete MERN application utilizing GraphQL and Apollo Server t
 
 ## Usage
 
-Once the server is running, you can connect to localhost:3001 or the deployed application. All data communicates with the backend by using Apollo and GraphQL. Tests can be made at localhost:3001/graphql.
+Once the server is running, you can connect to localhost:3000 or the deployed application. All data communicates with the backend by using Apollo and GraphQL. Tests can be made at localhost:3001/graphql.
 
 ## Credits
 
